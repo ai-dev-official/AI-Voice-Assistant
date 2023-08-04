@@ -64,4 +64,6 @@ yarn-error.log
 
 # testing
 /coverage
-/api
+
+#folders
+/constants
